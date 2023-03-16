@@ -1,0 +1,32 @@
+C:\Users\emre\Desktop\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\bin\Debug\Kullanıcı Modülü.exe
+C:\Users\emre\Desktop\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\bin\Debug\Kullanıcı Modülü.pdb
+C:\Users\emre\Desktop\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emre\Desktop\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\obj\x86\Debug\Kullanıcı_Modülü.Form1.resources
+C:\Users\emre\Desktop\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\obj\x86\Debug\Kullanıcı_Modülü.Properties.Resources.resources
+C:\Users\emre\Desktop\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emre\Desktop\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\emre\Desktop\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\obj\x86\Debug\Kullanıcı Modülü.exe
+C:\Users\emre\Desktop\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\obj\x86\Debug\Kullanıcı Modülü.pdb
+C:\Users\emre\Desktop\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\obj\x86\Debug\Kullanıcı_Modülü.Form2.resources
+C:\Users\emre\Desktop\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\obj\x86\Debug\Kullanıcı_Modülü.Form3.resources
+C:\Users\İnce\Desktop\son-hali\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\obj\x86\Debug\Kullanıcı Modülü.exe
+C:\Users\İnce\Desktop\son-hali\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\obj\x86\Debug\Kullanıcı Modülü.pdb
+C:\Users\İnce\Desktop\son-hali\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\bin\Debug\Kullanıcı Modülü.exe
+C:\Users\İnce\Desktop\son-hali\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\bin\Debug\Kullanıcı Modülü.pdb
+C:\Users\İnce\Desktop\son-hali\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\obj\x86\Debug\Kullanıcı Modülü.csprojResolveAssemblyReference.cache
+C:\Users\İnce\Desktop\son-hali\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\obj\x86\Debug\Kullanıcı_Modülü.Form1.resources
+C:\Users\İnce\Desktop\son-hali\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\obj\x86\Debug\Kullanıcı_Modülü.Form2.resources
+C:\Users\İnce\Desktop\son-hali\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\obj\x86\Debug\Kullanıcı_Modülü.Form3.resources
+C:\Users\İnce\Desktop\son-hali\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\obj\x86\Debug\Kullanıcı_Modülü.Properties.Resources.resources
+C:\Users\İnce\Desktop\son-hali\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\obj\x86\Debug\Kullanıcı Modülü.csproj.GenerateResource.Cache
+C:\Users\emre\Desktop\DERSLER asıl\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\obj\x86\Debug\Kullanıcı Modülü.exe
+C:\Users\emre\Desktop\DERSLER asıl\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\obj\x86\Debug\Kullanıcı Modülü.pdb
+C:\Users\emre\Desktop\DERSLER asıl\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\bin\Debug\Kullanıcı Modülü.exe
+C:\Users\emre\Desktop\DERSLER asıl\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\bin\Debug\Kullanıcı Modülü.pdb
+C:\Users\emre\Desktop\DERSLER asıl\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emre\Desktop\DERSLER asıl\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\obj\x86\Debug\Kullanıcı_Modülü.Form1.resources
+C:\Users\emre\Desktop\DERSLER asıl\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\obj\x86\Debug\Kullanıcı_Modülü.Form2.resources
+C:\Users\emre\Desktop\DERSLER asıl\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\obj\x86\Debug\Kullanıcı_Modülü.Form3.resources
+C:\Users\emre\Desktop\DERSLER asıl\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\obj\x86\Debug\Kullanıcı_Modülü.Properties.Resources.resources
+C:\Users\emre\Desktop\DERSLER asıl\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emre\Desktop\DERSLER asıl\Seçim otomasyonu\Proje\Kullanıcı Modülü\Kullanıcı Modülü\obj\x86\Debug\GenerateResource.write.1.tlog

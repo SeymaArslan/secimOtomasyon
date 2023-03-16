@@ -1,0 +1,32 @@
+C:\Users\emre\Desktop\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\emre\Desktop\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\emre\Desktop\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emre\Desktop\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\emre\Desktop\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\emre\Desktop\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emre\Desktop\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\emre\Desktop\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\emre\Desktop\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\emre\Desktop\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\İnce\Desktop\son-hali\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\İnce\Desktop\son-hali\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\İnce\Desktop\son-hali\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\İnce\Desktop\son-hali\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\İnce\Desktop\son-hali\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\İnce\Desktop\son-hali\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\İnce\Desktop\son-hali\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\İnce\Desktop\son-hali\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\İnce\Desktop\son-hali\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\İnce\Desktop\son-hali\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\emre\Desktop\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\emre\Desktop\DERSLER asıl\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\emre\Desktop\DERSLER asıl\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\emre\Desktop\DERSLER asıl\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\emre\Desktop\DERSLER asıl\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\emre\Desktop\DERSLER asıl\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\emre\Desktop\DERSLER asıl\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emre\Desktop\DERSLER asıl\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\emre\Desktop\DERSLER asıl\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\emre\Desktop\DERSLER asıl\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\emre\Desktop\DERSLER asıl\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emre\Desktop\DERSLER asıl\Seçim otomasyonu\Proje\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
